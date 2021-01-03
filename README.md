@@ -7,9 +7,9 @@
 # میرابوذر سیدحسینی
 - [PNU_3991_AR](https://github.com/aboozar135//PNU_3991_AR)
 - [Resume](https://github.com/aboozar135/RESUME) 
-- [SOP](https://saharzeinivand.github.io/Sop/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
+- [SOP](https://aboozar135.github.io/SOP/)
+- [Certificates](https://github.com/aboozar135/certificate/blob/main/certificate-JS.jpg)
+- [GitHub](https://github.com/aboozar135)
 
 ------------------
 ## فهرست درس ها  
