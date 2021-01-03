@@ -6,7 +6,7 @@
 
 # میرابوذر سیدحسینی
 - [PNU_3991_AR](https://github.com/aboozar135//PNU_3991_AR)
-- [Resume](https://aboozarhoseini.github.io/) 
+- [Resume](https://github.com/aboozar135/RESUME) 
 - [SOP](https://saharzeinivand.github.io/Sop/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
