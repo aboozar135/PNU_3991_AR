@@ -32,7 +32,7 @@
 
 </div>
 
-<div dir="RTL">
+<div dir="LTR">
      
 <table style="width:100%">
   <tr>
