@@ -18,6 +18,6 @@
 
 ### Presentation
 
-- (https://github.com/aboozar135/peresentation/blob/main/README.md)
+- https://github.com/aboozar135/peresentation/blob/main/README.md
      
 
