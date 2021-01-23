@@ -1,19 +1,20 @@
-# [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
+# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
 <div dir="rtl">
+     
+---------
 
-# سحر زینی وند
-- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
-- [Resume](https://saharzeinivand.github.io) 
-- [SOP](https://saharzeinivand.github.io/Sop/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
-- [SZ_CV_CheckList_AR_3991]()
+# میرابوذر سیدحسینی
+- [PNU_3991_AR](https://github.com/aboozar135//PNU_3991_AR)
+- [Resume](https://github.com/aboozar135/RESUME/blob/main/Resume.JPG) 
+- [SOP](https://aboozar135.github.io/SOP/)
+- [Certificates](https://github.com/aboozar135/certificate/blob/main/certificate-JS.jpg)
+- [GitHub](https://github.com/aboozar135)
 
 
 --------------------------
 
-## CHAPTER 24_People-oriented methodologies
+## CHAPTER 27: Issues
 
 ### Presentation
 
